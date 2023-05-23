@@ -58,4 +58,5 @@ Give a ⭐️ if you like this project
 ## **Acknowledgements**
 - Thank you Data Thinkers  for guiding me through this project.
 ## 📝 License 
+This project is [MIT](./MIT.md) licensed
 
